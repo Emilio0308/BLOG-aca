@@ -226,10 +226,7 @@ viewport-height
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 25px; /* 1rem = 16px, .5rem = 8px */
-    box-sizing: border-box;
-  }
+  
   .contenedor{
     margin: 0 auto;
   }
